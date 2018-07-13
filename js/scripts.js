@@ -15,6 +15,7 @@ $().ready(function(){
 
 var PingPong =function(ping){
     
+    
     if ((ping % 3) === 0 && (ping % 5) === 0) {
         return "Ping Pong"
     }
