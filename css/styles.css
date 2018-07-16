@@ -3,6 +3,7 @@ body{
     font-family: "Comic Sans MS", cursive, sans-serif;
     background-image: url("https://i.pinimg.com/originals/64/03/23/64032308d86c5e5dd9eedc4e73683a9d.jpg"); 
     opacity: 0.7; 
+    background-size: cover;
 }
 #title{
     color:black;
@@ -19,8 +20,11 @@ body{
     opacity: 3em;
 
 }
+.about-pg{
+    background-image: url()
+}
 .col-md-5:hover{
-    color: moccasin;
+    color: seashell;
 }
 
 .col-md-7{
