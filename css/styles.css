@@ -5,7 +5,6 @@ body{
     opacity: 0.7; 
 }
 #title{
-    /* background-color: black; */
     color:black;
     text-align: center;
     padding-top: 3em;
@@ -18,9 +17,10 @@ body{
     font-family: serif;
     font-size: 32px;
     opacity: 3em;
-    /* background-color: aquamarine; */
 
-
+}
+.col-md-5:hover{
+    color: moccasin;
 }
 
 .col-md-7{
@@ -28,6 +28,6 @@ body{
     font-family: serif;
     font-size: 32px;
     font-weight:
-    /* background-color: chartreuse; */
+
 
 }   
