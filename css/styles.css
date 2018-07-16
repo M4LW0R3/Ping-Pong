@@ -19,6 +19,8 @@ body{
     font-size: 32px;
     font-weight: bold;
     opacity: 3em;
+    background-color: aquamarine;
+
 
 }
 
@@ -26,5 +28,6 @@ body{
     color:black;
     font-family: serif;
     font-size: 32px;
-    font-weight: bold;
+    font-weight: bold;background-color: chartreuse;
+
 }   
