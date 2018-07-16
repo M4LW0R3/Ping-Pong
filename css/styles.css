@@ -1,11 +1,11 @@
 body{
     font-size: 25px;
-     /* background-image: url(http://www.androidguys.com/wp-content/uploads/2016/01/new-york-city-background-black-and-white.jpg) */
+     background-image: url(https://i.pinimg.com/originals/64/03/23/64032308d86c5e5dd9eedc4e73683a9d.jpg) 
 
     
 }
 #title{
-    background-color: black;
+    /* background-color: black; */
     color:white;
     text-align: center;
     padding-top: 3em;
@@ -14,12 +14,12 @@ body{
     font-weight: bold;
 }
 .col-md-5{
-    color: black;
+    
     font-family: serif;
     font-size: 32px;
     font-weight: bold;
     opacity: 3em;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 
 
 }
@@ -28,6 +28,7 @@ body{
     color:black;
     font-family: serif;
     font-size: 32px;
-    font-weight: bold;background-color: chartreuse;
+    font-weight: bold;
+    /* background-color: chartreuse; */
 
 }   
