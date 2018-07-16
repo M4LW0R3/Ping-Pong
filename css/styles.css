@@ -14,7 +14,7 @@ body{
     font-weight: bold;
 }
 .col-md-5{
-    color: white;
+    color: black;
     font-family: serif;
     font-size: 32px;
     font-weight: bold;
@@ -23,7 +23,7 @@ body{
 }
 
 .col-md-7{
-    color: white;
+    color:black;
     font-family: serif;
     font-size: 32px;
     font-weight: bold;
