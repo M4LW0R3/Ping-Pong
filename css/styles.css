@@ -24,11 +24,11 @@ body{
     background-image: url()
 }
 .col-md-5:hover{
-    color: seashell;
+    color: greenyellow;
 }
 
 .col-md-7{
-    color:black;
+    color: darkorange;
     font-family: serif;
     font-size: 32px;
     font-weight:
