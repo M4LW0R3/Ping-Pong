@@ -1,54 +1,55 @@
-ping pong
-By Bryan Karanja.
-Description
-This is an online page that takes the user input numbers checks whethere they are divisible by 3 , 5 and 15. if a number is divisible by 3 it chooses ping . if its divisible by 5 it displays pong . if it is divisible by 15 it outputs ping pong.
+# ping pong
+ By Bryan Karanja.
 
-Setup/Installation Requirements
-you can just clone it directly from my github repository and it will work on any updated web browser
-Technologies Used
-html
-css
-javascript.
-##examples
+# Description
+ This is an online page that takes the user input numbers checks whethere they are divisible by 3 , 5 and 15. if a number is   divisible by 3 it chooses ping . if its divisible by 5 it displays pong . if it is divisible by 15 it outputs ping pong.
 
-if you type in 12 these will be the results
-1
-2
-ping
-4
-5
-pingpong
-7
-8
-ping
-10
-11
-pingpong
-##example 2
+# Setup/Installation Requirements
+ You can just clone it directly from my github repository and it will work on any updated web browser
 
-if you enter 20 the will be the results:
-1
-2
-ping
-4
-pong
-ping
-7
-8
-ping
-pong
-11
-ping
-13
-14
-pingpong
-16
-17
-ping
-19
-pong
-example 3
-#if you put 9
+# Technologies Used
+  html
+  css
+  javascript.
+  
+  ## examples
+   if you type in 12 these will be the results
+    1
+    2
+    ping
+    4
+    5
+    pingpong
+    7
+    8
+    ping
+    10
+    11
+    pingpong
+
+  ## example 2
+
+  if you enter 20 the will be the results:
+  1
+  2
+  ping
+  4
+  pong
+  ping
+  7
+  8
+  ping
+  pong
+  11
+  ping
+  13
+  14
+  pingpong
+  16
+  17
+  ping
+  19
+  pong
 
 License
 *Copyright <2018>
