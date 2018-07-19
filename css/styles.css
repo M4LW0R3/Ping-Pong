@@ -1,13 +1,12 @@
 body{
     font-size: 25px;
-<<<<<<< HEAD
     font-family: "Comic Sans MS", cursive, sans-serif;
-    background-image: url("https://i.pinimg.com/originals/64/03/23/64032308d86c5e5dd9eedc4e73683a9d.jpg"); 
+    background-image: url("https://wallpaperhdzone.com/wp-content/uploads/2017/08/Black-Moon-HD-desktop-Widescreen-High-Definition-wallpaper-wp6003200.jpg"); 
     opacity: 0.7; 
     background-size: cover;
 }
 #title{
-    color:black;
+    color: #fefcfd;
     text-align: center;
     padding-top: 3em;
     font-family: serif;
@@ -19,29 +18,19 @@ body{
     font-family: serif;
     font-size: 32px;
     opacity: 3em;
+    color: white;
+    
 
 }
 .about-pg{
     background-image: url()
 }
-.col-md-5:hover{
-    color: greenyellow;
-}
+
 
 .col-md-7{
-    color: darkorange;
+    color: #fefcfd;
     font-family: serif;
     font-size: 32px;
     font-weight:
 
-
-}   
-=======
-    text-align: center;
-    padding-top: 5em;
-    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/N13e7awhgiljgescq/hand-holding-table-tennis-racket-and-bouncing-ping-pong-ball_rhwwu6flg_thumbnail-full01.png)
-
-
-
-}
->>>>>>> 09ff1e6552af9035773b9889cd41af188ea113ed
+}  
