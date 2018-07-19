@@ -14,6 +14,7 @@ $(document).ready(function(){
 
 });
 
+
 //Business Logic
 var Ping;
 function react(){
